@@ -1,0 +1,11 @@
+a=int(input('Enter value:'))
+b=int(input('Enter value:'))
+print (a+b)
+print (a-b)
+print (a*b)
+print (a/b)
+
+print (a%b)
+print (a//b)
+print (a**2,"and",b**2)
+print (a**3,"and",b**3)
